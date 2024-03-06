@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm Alireza Alizadeh Aghdam, a computer engineering student from Tabriz, Iran.
+Hello there! I'm Alireza Alizadeh Aghdam,From Iran/Tabriz, a computer engineering student from Islamic Azad University of Tabriz
 
 - 💻 I'm a web developer with proficiency in:
   - HTML
