@@ -26,6 +26,4 @@ Hello there! I'm Alireza Alizadeh Aghdam,From Iran/Tabriz, a computer engineerin
 
 - 🐦 Follow me on Twitter: [@AlirezaRubik](https://twitter.com/AlirezaRubik).
 
-- 📈 Profile Views: ![Profile views](https://gpvc.arturio.dev/alirezaalizadehaghdam)
-
 - 🔗 Find me on Stack Overflow: [Alireza Rubik](https://stackoverflow.com/users/15741026/alireza-rubik)
