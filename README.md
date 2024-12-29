@@ -22,7 +22,7 @@ Hi there 👋<br>I'm Alireza Alizadeh Aghdam, a web developer from Iran, and a C
 [![](https://visitcount.itsvg.in/api?id=AlirezaRubik&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/alirezarubik) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alirezarubik) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
